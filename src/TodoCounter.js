@@ -5,7 +5,7 @@ function TodoCounter( {total, completed} ){
         <>
         {/* <h1 className="TodoCounter"> Your Tasks </h1> */}
         <h2 className="TodoCounter"> 
-        Has completad<span> {completed} </span>
+        Has completado<span> {completed} </span>
         de <span>{total} </span> TODOs  
         </h2>
         </>
